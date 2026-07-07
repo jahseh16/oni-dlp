@@ -14,7 +14,7 @@
   "author": "Jahseh",
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@jahseh16:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
