@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jahseh16/-oni-dlp.git"
+    "url": "https://github.com/jahseh16/oni-dlp.git"
   },
   "dependencies": {
     "puppeteer": "^22.0.0",
