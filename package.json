@@ -1,0 +1,27 @@
+{
+  "name": "@jahseh16/oni-dlp",
+  "version": "1.0.0",
+  "description": "Motor estético y futurista de scraping y descarga",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "keywords": [
+    "scraper",
+    "yt-dlp",
+    "puppeteer"
+  ],
+  "author": "Jahseh",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jahseh16/-oni-dlp.git"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "yt-dlp-exec": "^3.0.0"
+  }
+}
