@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "puppeteer": "^22.0.0",
-    "yt-dlp-exec": "^3.0.0"
+    "yt-dlp-exec": "^1.0.2"
   }
 }
